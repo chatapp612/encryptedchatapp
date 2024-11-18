@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/encryptedchatapp/precache-manifest.15ff934cb71f86f6d030425fb46fb6e2.js"
+  "/encryptedchatapp/precache-manifest.ade1bc4a768b9b68f1d5ed93088bf807.js"
 );
 
 workbox.clientsClaim();
